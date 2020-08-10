@@ -1,0 +1,837 @@
+{
+  "data": [
+    {
+      "name": "Watches",
+      "items": [
+        {
+          "name": "Shop by Gender",
+          "items": ["Men's Watches", "Ladies Watches", "All Watches"]
+        },
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Baume &amp; Mercier",
+            "Breitling",
+            "Cartier",
+            "Citizen",
+            "Fossil",
+            "Frederique Constant",
+            "Hublot",
+            "Invicta",
+            "IWC",
+            "View All Brands (A-Z)",
+            "Michael Kors",
+            "Movado",
+            "Omega",
+            "Panerai",
+            "Rolex",
+            "Seiko",
+            "Tag Heuer",
+            "Tissot",
+            "Tudor",
+            "View All Brands (A-Z)"
+          ]
+        },
+        {
+          "name": "Watches by Style",
+          "items": [
+            "Automatic",
+            "Casual",
+            "Ceramic",
+            "Chronograph",
+            "Diamond",
+            "Digital",
+            "Diving",
+            "Dress",
+            "Fashion",
+            "Gold",
+            "Leather Band",
+            "Luxury",
+            "Pilot",
+            "Smart",
+            "Sports",
+            "World Time"
+          ]
+        },
+        {
+          "name": "Watch Accessories",
+          "items": [
+            "Collectors Cases",
+            "Replacement Bands",
+            "Toolkits",
+            "Watch Boxes",
+            "Watch Winders"
+          ]
+        },
+        { "name": "Shop pre-owned", "items": ["Pre-Owned Watches"] },
+        { "name": "Shop Deals", "items": ["Daily &amp; Weekly Deals"] },
+        {
+          "name": "Shop by Gender",
+          "items": ["Men's Watches", "Ladies Watches", "All Watches"]
+        },
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Baume &amp; Mercier",
+            "Breitling",
+            "Cartier",
+            "Citizen",
+            "Fossil",
+            "Frederique Constant",
+            "Hublot",
+            "Invicta",
+            "IWC",
+            "View All Brands (A-Z)",
+            "Michael Kors",
+            "Movado",
+            "Omega",
+            "Panerai",
+            "Rolex",
+            "Seiko",
+            "Tag Heuer",
+            "Tissot",
+            "Tudor",
+            "View All Brands (A-Z)"
+          ]
+        },
+        {
+          "name": "Watches by Style",
+          "items": [
+            "Automatic",
+            "Casual",
+            "Ceramic",
+            "Chronograph",
+            "Diamond",
+            "Digital",
+            "Diving",
+            "Dress",
+            "Fashion",
+            "Gold",
+            "Leather Band",
+            "Luxury",
+            "Pilot",
+            "Smart",
+            "Sports",
+            "World Time"
+          ]
+        },
+        {
+          "name": "Watch Accessories",
+          "items": [
+            "Collectors Cases",
+            "Replacement Bands",
+            "Toolkits",
+            "Watch Boxes",
+            "Watch Winders"
+          ]
+        },
+        { "name": "Shop pre-owned", "items": ["Pre-Owned Watches"] },
+        { "name": "Shop Deals", "items": ["Daily &amp; Weekly Deals"] }
+      ]
+    },
+    {
+      "name": "Men's",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Cartier",
+            "Citizen",
+            "Fossil",
+            "Gucci",
+            "Invicta",
+            "Montblanc",
+            "Rolex",
+            "Seiko",
+            "Tissot",
+            "View All Brands (A-Z)"
+          ]
+        },
+        {
+          "name": "Watches",
+          "items": [
+            "Automatic",
+            "Chronograph",
+            "Digital",
+            "Divers Watches",
+            "Fashion Watches",
+            "GMT",
+            "Leather Band",
+            "Perpetual",
+            "Quartz",
+            "Sports Watches"
+          ]
+        },
+        {
+          "name": "Sunglasses",
+          "items": [
+            "Carrera",
+            "Gucci",
+            "Polaroid",
+            "Ray Ban",
+            "Tom Ford",
+            "B+D",
+            "Montblanc",
+            "Zegna"
+          ]
+        },
+        {
+          "name": "Bags &amp; Accessories",
+          "items": [
+            "Backpacks",
+            "Briefcases",
+            "Electronic Cases",
+            "Wallets",
+            "Bracelets",
+            "Cufflinks",
+            "Necklaces",
+            "Rings"
+          ]
+        },
+        {
+          "name": "Apparel",
+          "items": [
+            "Belts",
+            "Outerwear",
+            "Pants",
+            "Shirts",
+            "Sweaters",
+            "Boots",
+            "Dress Shoes",
+            "Sneakers"
+          ]
+        },
+        {
+          "name": "Men's Grooming",
+          "items": [
+            "Acne Solutions",
+            "Aftershave",
+            "Cleansers",
+            "Cologne",
+            "Deodorant",
+            "Gels &amp; Washes",
+            "Moisturizers",
+            "Sets",
+            "Shampoos &amp; Conditioners",
+            "Styling Products"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ladies",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Burberry",
+            "Bvlgari",
+            "Gucci",
+            "Michael Kors",
+            "Movado",
+            "Ray Ban",
+            "Rolex",
+            "Tom Ford",
+            "Tissot",
+            "View All Brands (A-Z)"
+          ]
+        },
+        {
+          "name": "Watches",
+          "items": [
+            "Automatic",
+            "Diamond",
+            "Dress Watches",
+            "Fashion Watches",
+            "Gold Watches",
+            "Leather Bands",
+            "Luxury Watches",
+            "Quartz",
+            "Sport Watches",
+            "Square Shaped"
+          ]
+        },
+        {
+          "name": "Sunglasses",
+          "items": [
+            "Chloe",
+            "Coach",
+            "Jimmy Choo",
+            "Kate Spade",
+            "Tory Burch",
+            "B+D",
+            "Montblanc",
+            "Moncler",
+            "Roberto Cavalli "
+          ]
+        },
+        {
+          "name": "Bags &amp; Accessories",
+          "items": [
+            "Bag Charms",
+            "Crossbody",
+            "Satchels",
+            "Tote",
+            "Wallets &amp; Wristlets",
+            "Bracelets",
+            "Earrings",
+            "Necklaces",
+            "Rings"
+          ]
+        },
+        {
+          "name": "Apparel",
+          "items": [
+            "Bottoms",
+            "Dresses",
+            "Outerwear",
+            "Scarves",
+            "Tops",
+            "Boots",
+            "Flats",
+            "Heels",
+            "Sneakers"
+          ]
+        },
+        {
+          "name": "Beauty",
+          "items": [
+            "Bath &amp; Body",
+            "Fragrances",
+            "Gifts &amp; Sets",
+            "Hair Care",
+            "Health &amp; Wellness",
+            "Makeup",
+            "Nails",
+            "Perfume",
+            "Skin Care",
+            "Tools &amp; Brushes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JEWELRY",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Amour",
+            "Bella Pearl",
+            "Bertha",
+            "Bvlgari",
+            "Charriol",
+            "Dazzling Rock",
+            "Maulijewels",
+            "Tiffany &amp; Co.",
+            "Swarovski",
+            "All Designers\n(A-Z)"
+          ]
+        },
+        {
+          "name": "Category",
+          "items": [
+            "Bracelets",
+            "Charms",
+            "Cufflinks",
+            "Earrings",
+            "Necklaces",
+            "Rings"
+          ]
+        },
+        {
+          "name": "Wedding\nRings",
+          "items": [
+            "Anniversary",
+            "Engagement",
+            "Eternity",
+            "Wedding Bands",
+            "Wedding Sets",
+            "Rose Gold",
+            "Sterling\nSilver",
+            "White Gold",
+            "Yellow Gold"
+          ]
+        },
+        {
+          "name": "Stone Type",
+          "items": [
+            "Amethyst",
+            "Aquamarine",
+            "Cubic Zirconia",
+            "Citrine",
+            "Diamond",
+            "Emerald",
+            "Morganite",
+            "Opal",
+            "Pearl",
+            "Ruby"
+          ]
+        },
+        {
+          "name": "Stone Shape",
+          "items": [
+            "Asscher",
+            "Baguette",
+            "Cushion",
+            "Emerald",
+            "Heart",
+            "Marquise",
+            "Oval",
+            "Pear",
+            "Princess",
+            "Round"
+          ]
+        },
+        {
+          "name": "Best Sellers",
+          "items": [
+            "Cartier Rings",
+            "Hoop Earrings",
+            "Religious Pendants",
+            "Sole Du Soleil",
+            "Tennis Bracelets",
+            "Bracelets",
+            "Cufflinks",
+            "Necklaces",
+            "Rings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HandBags",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Balenciaga",
+            "Burberry",
+            "Chloe",
+            "Gucci",
+            "Michael Kors",
+            "Montblanc",
+            "Prada",
+            "Tory Burch",
+            "Valentino",
+            "All Designers (A-Z)"
+          ]
+        },
+        {
+          "name": "Style",
+          "items": [
+            "Backpacks",
+            "Clutches",
+            "Crossbody",
+            "Messengers",
+            "Satchels",
+            "Shoulder",
+            "Totes",
+            "Wristlets",
+            "Wallets",
+            "View All"
+          ]
+        },
+        {
+          "name": "Occasion",
+          "items": [
+            "Bridal",
+            "Casual",
+            "Cocktail",
+            "Day to Night",
+            "Formal",
+            "Sport",
+            "Travel",
+            "Wedding",
+            "Work",
+            "View All"
+          ]
+        },
+        {
+          "name": "Handbag Size",
+          "items": [
+            "Mini",
+            "Small",
+            "Medium",
+            "Large",
+            "Extra-Large",
+            "Adjustable",
+            "Credit Card Slots",
+            "Laptop Pocket",
+            "Silver-tone"
+          ]
+        },
+        {
+          "name": "Material",
+          "items": [
+            "Canvas",
+            "Cotton",
+            "Leather",
+            "Nylon",
+            "Suede",
+            "Bag Charms",
+            "Cosmetic Cases",
+            "Passport Holders",
+            "Travel Cases"
+          ]
+        },
+        {
+          "name": "Men's",
+          "items": [
+            "Backpacks",
+            "Briefcases",
+            "Sport Bags",
+            "Travel Bags",
+            "Wallets",
+            "Keychains",
+            "Drawstring",
+            "MK Wallets",
+            "Leather Satchels"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SHOES",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Aquazzura",
+            "Balenciaga",
+            "Burberry",
+            "Cole Haan",
+            "Dolce &amp; Gabbana",
+            "Doucal's",
+            "Fendi",
+            "Giuseppe Zanotti",
+            "Gucci",
+            "All Designers (A-Z)",
+            "Jimmy Choo",
+            "Saint Laurent",
+            "Sam Edelman",
+            "Stella Luna",
+            "Stella McCartney",
+            "Tods",
+            "Toms",
+            "Tory Burch",
+            "Yeezy",
+            "All Designers (A-Z)"
+          ]
+        },
+        {
+          "name": "Shoes",
+          "items": [
+            "Boots",
+            "Espadrilles",
+            "Flats",
+            "Heels",
+            "Loafers",
+            "Oxfords &amp; Derbys",
+            "Sandals",
+            "Sneakers"
+          ]
+        },
+        { "name": "Shoe Accessories", "items": ["Ladies", "Mens"] },
+        {
+          "name": "Best Sellers",
+          "items": [
+            "Desert Boots",
+            "Ladies Pumps",
+            "Low-Top Sneakers",
+            "Tod's Loafers",
+            "UGG Boots"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APPAREL",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Armani",
+            "Balmain",
+            "Burberry",
+            "Dolce &amp; Gabbana",
+            "Eleven Paris",
+            "Ermenegildo Zegna",
+            "F.A.M.T.",
+            "Fendi",
+            "Filles A Papa",
+            "All Designers (A-Z)",
+            "Gucci",
+            "Kenzo",
+            "Michaela Buerger",
+            "Ralph Lauren",
+            "Saint Laurent",
+            "Stella Mccartney",
+            "The Very Warm",
+            "Versace",
+            "Victoria Beckham",
+            "All Designers (A-Z)"
+          ]
+        },
+        {
+          "name": "Apparel",
+          "items": [
+            "Tops",
+            "Bottoms",
+            "Dresses",
+            "Sets",
+            "Outerwear",
+            "Undergarments"
+          ]
+        },
+        {
+          "name": "Fashion Accessories",
+          "items": ["Belts", "Hats", "Scarves", "Ladies", "Mens"]
+        },
+        {
+          "name": "Best Sellers",
+          "items": [
+            "Active &amp; Lounge",
+            "Burberry Coats",
+            "Gucci Accessories",
+            "Hoodies &amp; Sweatshirts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUNGLASSES",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Burberry",
+            "Carrera",
+            "Chloe",
+            "Coach",
+            "Costa Del Mar",
+            "Dior",
+            "Fendi",
+            "Ferragamo",
+            "View All Brands (A-Z)",
+            "Givenchy",
+            "Gucci",
+            "Jimmy Choo",
+            "Kate Spade",
+            "Marc Jacobs",
+            "Oakley",
+            "Polaroid",
+            "Prada",
+            "Ray Ban",
+            "Roberto Cavalli",
+            "Tom Ford",
+            "Tory Burch",
+            "Zegna",
+            "View All Brands (A-Z)"
+          ]
+        },
+        {
+          "name": "Frame Shape",
+          "items": [
+            "Aviator",
+            "Browline",
+            "Butterfly",
+            "Cat Eye",
+            "Geometric",
+            "Rectangular",
+            "Sport",
+            "Square",
+            "Wayfarer"
+          ]
+        },
+        {
+          "name": "Lens Type",
+          "items": [
+            "Classic",
+            "Flash",
+            "Gradient",
+            "Mirrored",
+            "Polarized",
+            "Full-Rim",
+            "Rimless",
+            "Semi-Rimless"
+          ]
+        },
+        {
+          "name": "Gender",
+          "items": [
+            "Men's",
+            "Ladies",
+            "Unisex",
+            "Eyeglass Frames",
+            "Reading Glasses",
+            "Shop All Eyeglasses"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BEAUTY",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Acqua Di Parma",
+            "Bare Minerals",
+            "Burberry",
+            "Calvin Klein",
+            "Chloe",
+            "Clarins",
+            "Creed",
+            "Dolce &amp; Gabbana",
+            "Elizabeth Arden",
+            "View All Brands (A-Z)",
+            "Elizabeth Taylor",
+            "Estee Lauder",
+            "Lancome",
+            "Montblanc",
+            "Nars",
+            "Shiseido",
+            "Tom Ford",
+            "Versace",
+            "YSL"
+          ]
+        },
+        {
+          "name": "Fragrances",
+          "items": [
+            "Colognes",
+            "Deodorants",
+            "Perfumes",
+            "Cleansers",
+            "Eye Treatments",
+            "Moisturizers",
+            "Serums"
+          ]
+        },
+        {
+          "name": "Health &amp; Wellness",
+          "items": [
+            "Acne Solutions",
+            "Anti-Aging",
+            "Balms &amp; Treatments",
+            "Eyes",
+            "Lips",
+            "Face",
+            "Nails"
+          ]
+        },
+        {
+          "name": "Men's Grooming",
+          "items": ["Aftershaves", "Colognes", "Deoderants"]
+        },
+        {
+          "name": "Gifts &amp; Sets",
+          "items": ["Ladies", "Men's", "Unisex", "For Her", "For Him"]
+        }
+      ]
+    },
+    {
+      "name": "GIFTS",
+      "items": [
+        {
+          "name": "Fine Pens &amp; Pencils",
+          "items": [
+            "Georg Jensen",
+            "Lamy",
+            "Montblanc",
+            "Picasso and Co",
+            "Swarovski"
+          ]
+        },
+        {
+          "name": "Crystals &amp; Figurines",
+          "items": [
+            "Baccarat",
+            "Disney",
+            "Hummel",
+            "Jeff Koons",
+            "Lalique",
+            "Swarovski",
+            "Schmidt"
+          ]
+        },
+        {
+          "name": "Dinner &amp; Barware",
+          "items": ["Baccarat", "Christofle", "Michael Aram", "Swarovski"]
+        },
+        { "name": "Electronic Cases", "items": [] },
+        {
+          "name": "Gift Guide",
+          "items": ["Fragrance Sets", "Jewelry Sets", "For Her", "For Him"]
+        }
+      ]
+    },
+    {
+      "name": "NEW ARRIVALS",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Moncler",
+            "Loewe",
+            "Buscemi",
+            "Estee Lauder ",
+            "Dita Sunglasses ",
+            "Stella McCartney",
+            "Essentiel",
+            "EMPORIO ARMANI",
+            "Puma Shoes",
+            "View All Brands"
+          ]
+        },
+        {
+          "name": "Categories",
+          "items": [
+            "Watches",
+            "Sunglasses",
+            "Bags",
+            "Beauty",
+            "Shoes",
+            "Apparel",
+            "Jewelry",
+            "View All New Arrivals"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PRE-OWNED",
+      "items": [
+        {
+          "name": "Featured Brands",
+          "items": [
+            "Baume &amp; Mercier",
+            "Breitling",
+            "Cartier",
+            "Hublot",
+            "IWC",
+            "Omega",
+            "View All Brands (A-Z)",
+            "Panerai",
+            "Patek Philippe",
+            "Rolex",
+            "Tag Heuer",
+            "Tudor",
+            "Zenith",
+            "View All Brands (A-Z)"
+          ]
+        },
+        { "name": "New Arrivals!", "items": ["New Arrivals!"] },
+        {
+          "name": "Pre-owned by Gender",
+          "items": ["Men's Watches", "Ladies Watches", "All Watches"]
+        },
+        {
+          "name": "Shop by Department",
+          "items": ["Pre-Owned Watches", "Pre-Owned Jewelry"]
+        }
+      ]
+    }
+  ]
+}

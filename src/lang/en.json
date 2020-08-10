@@ -1,0 +1,15 @@
+{
+  "home": {
+    "chat-or-call": "CHAT OR CALL (877) 834-1434",
+    "search-placeholder": "Search by brand or model"
+  },
+  "buttons": {
+    "login": "Login",
+    "register": "Register"
+  },
+  "account": {
+    "my-account": "My Account",
+    "whist-list": "Whist list",
+    "track-order": "Track my order"
+  }
+}

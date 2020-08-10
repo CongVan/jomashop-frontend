@@ -1,0 +1,16 @@
+version: '3'
+
+# Define all the containers.
+services:
+  # Frontend Container.
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - HOST=0.0.0.0
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 3000:3000
+    tty: true
